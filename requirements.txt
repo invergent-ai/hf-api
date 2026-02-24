@@ -1,0 +1,16 @@
+transformers==5.2.0
+datasets==4.5.0
+huggingface-hub==1.4.1
+fastapi
+uvicorn==0.34.0
+pydantic>=2.0
+python-multipart
+compressed-tensors
+accelerate
+torch==2.9.0
+torchvision==0.24.0
+pytest
+pytest-asyncio
+
+densemax-lakefs-spec @ https://densemax.s3.eu-central-1.amazonaws.com/densemax_lakefs_spec-1.50.0-py3-none-any.whl
+densemax-lakefs-sdk @ https://densemax.s3.eu-central-1.amazonaws.com/densemax_lakefs_sdk-1.50.0-py3-none-any.whl
